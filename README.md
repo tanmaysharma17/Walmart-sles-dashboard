@@ -1,13 +1,14 @@
-# Walmart-sales-dashboard
+# Walmart-Sales-Dashboard
 
--Walmart E-commerce Sales Dashboard. Through this project, i have learnt lot of things like data cleaning, processing, analysis and dashboard creation, all while working towards maximizing sales for Madhav Store.
+- Walmart E-commerce Sales Dashboard. Through this project, i have learnt lot of things like data cleaning, processing, analysis and dashboard creation, all while working towards maximizing sales for Madhav Store.
 
--Project Objective;
+- Project Objective;
 Owner of Walmart Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
--Sample Insights from Report;
--Key performance indicators (KPIs) used to be determined based on niche, vision, and short-term, mid-term, and long-term goals of a business, profit per month in states, category, sub-category of the products.
--Customer retention is the most important KPI to measure for any business. Retaining your customers is vital to increase brand value in the market.
+- Sample Insights from Report;
+- Key performance indicators (KPIs) used to be determined based on niche, vision, and short-term, mid-term, and long-term goals of a business, profit per month in states, category, sub-category of the products.
+
+- Customer retention is the most important KPI to measure for any business. Retaining your customers is vital to increase brand value in the market.
 -The payment mode option- a greater number of customers using COD (cash on delivery) and business can offer some discount to cardholders.
 -Sales Growth per Month -The profit earned in the month of November are maximum as compared to other months due to winter sales on website.
 -In Electronic goods, Printer were the subcategory which have the highest profit.
