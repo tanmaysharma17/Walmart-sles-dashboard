@@ -1,6 +1,6 @@
 # Walmart-Sales-Dashboard
 
-- Walmart E-commerce Sales Dashboard. Through this project, i have learnt lot of things like data cleaning, processing, analysis and dashboard creation, all while working towards maximizing sales for Madhav Store.
+- Through this project, I have learnt lot of things like data cleaning, processing, analysis and dashboard creation, all while working towards maximizing sales for Walmart Store.
 
 # Project Objective;
 - Owner of Walmart Store wants us to help them create a dashboard to track and analyze their online sales across India.
